@@ -1,0 +1,10 @@
+[package]
+name = "learning-rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "learning-rust"
+path = "exercise/c_simple_types/src/main.rs"
+
+[dependencies]
